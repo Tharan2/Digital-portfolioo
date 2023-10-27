@@ -1,0 +1,45 @@
+
+.container {
+    display:flex;
+    align-items: center;
+    padding: 20px;
+    background-color:rgb(24, 133, 160);
+    
+}
+.image {
+    width: 180px;
+    height: auto;
+    margin-right: 10px;
+    border-radius: 100%;
+
+}
+.title{
+    font-size: 60px;
+}
+.details{
+    margin-left:auto;
+    float: right;
+}
+
+a{
+    font-size:20px;
+}
+p{
+    
+    font-size:20px;
+}
+.ll{
+    font-size: 20px;
+}
+.bold{
+    font-weight: bold;
+}
+.dot {
+    border-top: 2px dotted black;
+}
+body{
+    margin-left:70px;
+    margin-right:70px;
+    background-image: url("back.avif");
+    background-size: 100%;
+}
